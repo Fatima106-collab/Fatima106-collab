@@ -4,7 +4,7 @@
 
 **Power BI · SQL · Python · Excel · DAX · Data Analytics**
 
-[LinkedIn](https://www.linkedin.com/in/fatma-khalid-8b4b6a221/) · [Email](mailto:fatmakhalid102h@gmail.com)---
+[LinkedIn]([https://www.linkedin.com/in/fatma-khalid-8b4b6a221/]) · [Email](mailto:fatmakhalid102h@gmail.com) 
 
 ## Profile
 
