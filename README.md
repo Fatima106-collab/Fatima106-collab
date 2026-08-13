@@ -1,6 +1,6 @@
 # Fatima Khalid
 
-### Data Analyst | Business Intelligence | Data Science
+### Data Analyst | Business Intelligence 
 
 **Power BI · SQL · Python · Excel · DAX · Data Analytics**
 
