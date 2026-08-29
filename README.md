@@ -1,68 +1,89 @@
-# Fatima Khalid
+# Hi, I'm Fatma Khalid 👋
 
-### Data Analyst | Business Intelligence 
+📊 **Data Analyst | Business Intelligence**
 
-**Power BI · SQL · Python · Excel · DAX · Data Analytics**
+I'm a Data Analyst with a Bachelor's degree in Business Information Technology, passionate about transforming raw data into meaningful insights and data-driven business solutions.
 
-[LinkedIn](https://www.linkedin.com/in/fatima-khalid-8b4b6a221/) · [Email](mailto:fatmakhalid102h@gmail.com)
-
-## Profile
-
-Data Analyst with a Bachelor's degree in Business Information Technology, passionate about transforming raw data into meaningful insights and data-driven business solutions.
-
-My technical expertise includes **Power BI, SQL, Excel, Python, DAX, Power Query, and Data Modeling**, with hands-on experience across the analytics lifecycle — from data cleaning and transformation to analysis, visualization, KPI development, and insight generation.
+My technical expertise spans **Power BI, SQL, Excel, Python, DAX, Power Query, and Data Modeling**, with hands-on experience across the full analytics lifecycle — from data cleaning and transformation to analysis, visualization, KPI development, and insight generation.
 
 I combine technical analysis with business understanding to identify trends, evaluate performance, uncover opportunities, and support better decision-making through data.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-khalid-8b4b6a221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
 ---
 
-## Core Expertise
+## 🚀 About Me
 
-### Business Intelligence
+- 💼 Data Analyst focused on Business Intelligence & Analytics
+- 🎯 Experienced in designing dashboards, KPIs, and interactive reports
+- 🗄️ Skilled in relational databases and writing optimized SQL queries
+- 🐍 Proficient in Python for data manipulation (Pandas, NumPy) and web scraping
+- 📈 Passionate about delivering end-to-end analytics projects that drive measurable outcomes
 
-Power BI · DAX · Power Query · Data Modeling · Dashboard Development
+---
 
-### Data Analytics
+## 🛠️ Skills & Tools
 
-Data Cleaning · Exploratory Data Analysis · KPI Development · Business Analysis
+### 📊 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-005A9E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B0082?style=for-the-badge)
 
-### Databases
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-SQL · SQL Server · MySQL
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-### Programming
+### 📈 Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-Python · Pandas · NumPy · Matplotlib · Seaborn · Web Scraping · Pandas · Data Visualization · Machine Learning
+### 📑 Spreadsheets
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PivotTables](https://img.shields.io/badge/PivotTables-217346?style=for-the-badge)
 
-### Visualization
+---
 
-Power BI · Tableau · Matplotlib · Plotly
+## 🔄 Analytics Workflow
 
-### Spreadsheets
-
-Excel · Advanced Excel · PivotTables · Power Query
-
-
-## Analytics Workflow
-
-```text
+```
 Business Problem
-       ↓
+      ↓
 Data Collection
-       ↓
+      ↓
 Data Preparation
-       ↓
+      ↓
 Data Cleaning & Transformation
-       ↓
+      ↓
 Data Modeling
-       ↓
+      ↓
 SQL / Python Analysis
-       ↓
+      ↓
 KPI Development
-       ↓
+      ↓
 Data Visualization
-       ↓
+      ↓
 Business Insights
-       ↓
+      ↓
 Data-Driven Decision Making
- 
+```
+
+---
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below for hands-on projects in Excel, SQL, Python, Power BI, and Tableau.
+
+---
+
+⭐️ *"Turning raw data into meaningful insights."*
