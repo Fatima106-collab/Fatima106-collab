@@ -13,7 +13,7 @@ I combine technical analysis with business understanding to identify trends, eva
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💼 Data Analyst focused on Business Intelligence & Analytics
 - 🎯 Experienced in designing dashboards, KPIs, and interactive reports
