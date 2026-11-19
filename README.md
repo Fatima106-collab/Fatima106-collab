@@ -70,21 +70,25 @@ I combine technical analysis with business understanding to identify trends, eva
 
 ## 🔄 Analytics Workflow
 
-Business Problem
-↓
-Data Collection & Web Scraping
-↓
-SQL Data Warehousing (Bronze → Silver → Gold Layers)
-↓
-Data Modeling
-↓
-SQL / Python Analysis
-↓
-KPI Development
-↓
-Data Visualization
-↓
-Business Insights & Decision Making
+<div align="center">
+
+**Business Problem** <br>
+⬇️ <br>
+**Data Collection & Web Scraping** <br>
+⬇️ <br>
+**SQL Data Warehousing (Bronze → Silver → Gold Layers)** <br>
+⬇️ <br>
+**Data Modeling** <br>
+⬇️ <br>
+**SQL / Python Analysis** <br>
+⬇️ <br>
+**KPI Development** <br>
+⬇️ <br>
+**Data Visualization** <br>
+⬇️ <br>
+**Business Insights & Decision Making**
+
+</div>
 
 
 ---
