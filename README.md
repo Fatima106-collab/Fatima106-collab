@@ -4,7 +4,7 @@
 
 I'm a Data Analyst with a Bachelor's degree in Business Information Technology, passionate about transforming raw data into meaningful insights and data-driven business solutions.
 
-My technical expertise spans **Power BI, SQL, Excel, Python, DAX, Power Query, and Data Modeling**, with hands-on experience across the full analytics lifecycle — from data cleaning and transformation to analysis, visualization, KPI development, and insight generation.
+My technical expertise spans **Power BI, SQL, Excel, Python, Web Scraping, DAX, Power Query, and Data Modeling**, with hands-on experience across the full analytics lifecycle — from data extraction and multi-layer SQL warehousing (**Bronze, Silver, and Gold layers**) to transformation, visualization, KPI development, and insight generation.
 
 I combine technical analysis with business understanding to identify trends, evaluate performance, uncover opportunities, and support better decision-making through data.
 
@@ -13,12 +13,12 @@ I combine technical analysis with business understanding to identify trends, eva
 
 ---
 
-##  About Me
+## About Me
 
 - 💼 Data Analyst focused on Business Intelligence & Analytics
 - 🎯 Experienced in designing dashboards, KPIs, and interactive reports
-- 🗄️ Skilled in relational databases and writing optimized SQL queries
-- 🐍 Proficient in Python for data manipulation (Pandas, NumPy) and web scraping
+- 🗄️ Skilled in relational databases, optimized SQL queries, and **Medallion Architecture (Bronze, Silver, Gold layers)**
+- 🐍 Proficient in Python for data manipulation (**Pandas, NumPy**) and automated **Web Scraping**
 - 📈 Passionate about delivering end-to-end analytics projects that drive measurable outcomes
 
 ---
@@ -31,13 +31,17 @@ I combine technical analysis with business understanding to identify trends, eva
 ![Power Query](https://img.shields.io/badge/Power%20Query-005A9E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B0082?style=for-the-badge)
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Architecture
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bronze Layer](https://img.shields.io/badge/Bronze%20Layer-CD7F32?style=for-the-badge)
+![Silver Layer](https://img.shields.io/badge/Silver%20Layer-C0C0C0?style=for-the-badge&logoColor=black)
+![Gold Layer](https://img.shields.io/badge/Gold%20Layer-FFD700?style=for-the-badge&logoColor=black)
 
-### 🐍 Programming
+### 🐍 Programming & Data Extraction
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -67,11 +71,9 @@ I combine technical analysis with business understanding to identify trends, eva
 ## 🔄 Analytics Workflow
 Business Problem
 ↓
-Data Collection
+Data Collection & Web Scraping
 ↓
-Data Preparation
-↓
-Data Cleaning & Transformation
+SQL Data Warehousing (Bronze → Silver → Gold Layers)
 ↓
 Data Modeling
 ↓
@@ -81,16 +83,17 @@ KPI Development
 ↓
 Data Visualization
 ↓
-Business Insights
-↓
-Data-Driven Decision Making
+Business Insights & Decision Making
+
 
 ---
 
 ## 📌 Featured Projects
 
-Check out my pinned repositories below for hands-on projects in Excel, SQL, Python, Power BI, and Tableau.
+Check out my pinned repositories below for hands-on projects in Excel, SQL, Python, Web Scraping, Power BI, and Tableau.
 
 ---
+
+⭐️ *"Turning raw data into meaningful insights."*
 
 ⭐️ *"Turning raw data into meaningful insights."*
