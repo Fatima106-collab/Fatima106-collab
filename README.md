@@ -54,29 +54,36 @@ I combine technical analysis with business understanding to identify trends, eva
 
 ---
 
-## 🔄 Analytics Workflow
+## 🎓 Certifications
 
-```
+| Certificate | Issued By |
+| :--- | :--- |
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft |
+| Google Data Analytics Professional Certificate (9 courses) | Google |
+| Python Programming Basics | Huawei ICT Academy |
+
+---
+
+## 🔄 Analytics Workflow
 Business Problem
-      ↓
+↓
 Data Collection
-      ↓
+↓
 Data Preparation
-      ↓
+↓
 Data Cleaning & Transformation
-      ↓
+↓
 Data Modeling
-      ↓
+↓
 SQL / Python Analysis
-      ↓
+↓
 KPI Development
-      ↓
+↓
 Data Visualization
-      ↓
+↓
 Business Insights
-      ↓
+↓
 Data-Driven Decision Making
-```
 
 ---
 
