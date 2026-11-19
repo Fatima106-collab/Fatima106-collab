@@ -69,6 +69,7 @@ I combine technical analysis with business understanding to identify trends, eva
 ---
 
 ## 🔄 Analytics Workflow
+
 Business Problem
 ↓
 Data Collection & Web Scraping
