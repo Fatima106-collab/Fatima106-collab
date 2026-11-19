@@ -100,5 +100,3 @@ Check out my pinned repositories below for hands-on projects in Excel, SQL, Pyth
 ---
 
 ⭐️ *"Turning raw data into meaningful insights."*
-
-⭐️ *"Turning raw data into meaningful insights."*
